@@ -1,0 +1,9 @@
+99.
+.99
+str a;
+int w
+int b;
+b = 2;
+
+b = "abc"+a;
+a
